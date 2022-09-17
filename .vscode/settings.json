@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "camelcase",
+        "esnext",
+        "sudoo",
+        "triforce",
+        "WMXPY"
+    ],
+    "eslint.options": {
+        "overrideConfigFile": "./typescript/.eslintrc.json"
+    }
+}
