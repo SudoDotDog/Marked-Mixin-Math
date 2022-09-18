@@ -12,6 +12,9 @@
     "url": "https://github.com/SudoDotDog/Sudoo-Marked-Mixin-Math/issues"
   },
   "homepage": "https://github.com/SudoDotDog/Sudoo-Marked-Mixin-Math#readme",
+  "dependencies": {
+    "@sudoo/marked-mixin": "^1.0.0"
+  },
   "peerDependencies": {
     "@sudoo/marked": "*"
   },
