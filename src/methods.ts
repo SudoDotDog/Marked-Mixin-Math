@@ -56,4 +56,15 @@ export const MarkedMathMixinMethods: Record<string, any> = {
     sqrt: (value: number): number => {
         return Math.sqrt(value);
     },
+
+    max: (...values: number[]): number => {
+        return Math.max(...values);
+    },
+    min: (...values: number[]): number => {
+        return Math.min(...values);
+    },
+
+    random: (): number => {
+        return Math.random();
+    },
 };
