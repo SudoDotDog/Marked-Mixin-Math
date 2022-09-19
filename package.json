@@ -1,6 +1,6 @@
 {
   "name": "@sudoo/marked-mixin-math",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Math Mixin for Marked",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/SudoDotDog/Sudoo-Marked-Mixin-Math#readme",
   "dependencies": {
-    "@sudoo/marked-mixin": "^1.0.0"
+    "@sudoo/marked-mixin": "^1.1.0"
   },
   "peerDependencies": {
     "@sudoo/marked": "*"
